@@ -16,7 +16,7 @@ This tool automates the process of converting DICOM files, specifically angiogra
 
 ## Installation
 To install this application, follow these steps:
-1. **Download the latest release**: Download the ZIP file from the [Download Link](https://drive.google.com/file/d/1qH-HUGQpLD568nnsknqsmQhkWZE5gX-V/view?usp=drive_link).
+1. **Download the latest release**: Download the ZIP file from the [Download Link](https://www.dropbox.com/scl/fi/9etk4burph859l0x2yb0b/dicom_ppt.exe?rlkey=7gs1czuazj8dkvnpfig8ir6u0&st=iu0wxyqb&dl=0view?usp=drive_link).
 2. **Extract the ZIP file**: Extract `dicom_ppt.exe` and the `_internal` folder from the ZIP file to the same directory.
 3. **Run the executable**: Double-click `dicom_ppt.exe` to start the application. 
 
