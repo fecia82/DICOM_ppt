@@ -1,5 +1,9 @@
 # DICOM to PowerPoint Converter
 
+## Direct EXE file
+
+You can now download the exe file from: https://www.dropbox.com/scl/fi/9etk4burph859l0x2yb0b/dicom_ppt.exe?rlkey=7gs1czuazj8dkvnpfig8ir6u0&st=iu0wxyqb&dl=0
+
 ## Description
 This tool automates the process of converting DICOM files, specifically angiographic imaging data, into PowerPoint presentations. Each angiography series is transformed into an MP4 video and key frames are extracted and added to individual slides for detailed examination.
 
