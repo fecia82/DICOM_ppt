@@ -2,9 +2,9 @@
 
 ## Direct EXE file
 
-You can now download the exe file from: https://www.dropbox.com/scl/fi/9etk4burph859l0x2yb0b/dicom_ppt.exe?rlkey=7gs1czuazj8dkvnpfig8ir6u0&st=iu0wxyqb&dl=0
+You can now download the exe file from: [Download Link] (https://www.dropbox.com/scl/fi/9etk4burph859l0x2yb0b/dicom_ppt.exe?rlkey=7gs1czuazj8dkvnpfig8ir6u0&st=iu0wxyqb&dl=0)
 
-## Description
+##](https://drive.google.com/file/d/1tyMMxLZjzWqR9BViJjB1loF9ScFDfSOZ/view?usp=sharing) Description
 This tool automates the process of converting DICOM files, specifically angiographic imaging data, into PowerPoint presentations. Each angiography series is transformed into an MP4 video and key frames are extracted and added to individual slides for detailed examination.
 
 ## Features
@@ -16,9 +16,8 @@ This tool automates the process of converting DICOM files, specifically angiogra
 
 ## Installation
 To install this application, follow these steps:
-1. **Download the latest release**: Download the ZIP file from the [Download Link](https://www.dropbox.com/scl/fi/9etk4burph859l0x2yb0b/dicom_ppt.exe?rlkey=7gs1czuazj8dkvnpfig8ir6u0&st=iu0wxyqb&dl=0view?usp=drive_link).
-2. **Extract the ZIP file**: Extract `dicom_ppt.exe` and the `_internal` folder from the ZIP file to the same directory.
-3. **Run the executable**: Double-click `dicom_ppt.exe` to start the application. 
+1. **Download the latest release**: Download the exe file from the [Download Link](https://drive.google.com/file/d/1tyMMxLZjzWqR9BViJjB1loF9ScFDfSOZ/view?usp=sharing).
+2. **Run the executable**: Double-click `dicom_ppt.exe` to start the application. 
 
 No additional installation steps are required as the executable includes all necessary libraries and dependencies.
 
