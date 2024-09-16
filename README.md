@@ -2,9 +2,9 @@
 
 ## Direct EXE file
 
-You can now download the exe file from: [Download Link] (https://www.dropbox.com/scl/fi/9etk4burph859l0x2yb0b/dicom_ppt.exe?rlkey=7gs1czuazj8dkvnpfig8ir6u0&st=iu0wxyqb&dl=0)
+You can now download the exe file from: [Download Link](https://drive.google.com/file/d/1tyMMxLZjzWqR9BViJjB1loF9ScFDfSOZ/view?usp=sharing)
 
-##](https://drive.google.com/file/d/1tyMMxLZjzWqR9BViJjB1loF9ScFDfSOZ/view?usp=sharing) Description
+## Description
 This tool automates the process of converting DICOM files, specifically angiographic imaging data, into PowerPoint presentations. Each angiography series is transformed into an MP4 video and key frames are extracted and added to individual slides for detailed examination.
 
 ## Features
